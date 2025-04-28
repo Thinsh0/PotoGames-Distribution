@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1387633,
             "MD5": "5cffbeb4848a035ce735295b1cc0e7fa",
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/net/fabricmc/fabric-loader/0.16.13/fabric-loader-0.16.13.jar"
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/net/fabricmc/fabric-loader/0.16.13/fabric-loader-0.16.13.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2859,
                 "MD5": "634eb4fbfca39469a5ff902f7d090d9b",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/versions/1.20.1-fabric-0.16.13/1.20.1-fabric-0.16.13.json"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/versions/1.20.1-fabric-0.16.13/1.20.1-fabric-0.16.13.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 70663,
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/servers/main-1.20.1/fabricmods/required/entityculling-fabric-1.7.4-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/servers/main-1.20.1/fabricmods/required/entityculling-fabric-1.7.4-mc1.20.1.jar",
             "MD5": "44684ef5978093854e6c4bfd45f024ce"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 53638544,
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/servers/main-1.20.1/fabricmods/required/essential_1-3-5-12_fabric_1-20-1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/servers/main-1.20.1/fabricmods/required/essential_1-3-5-12_fabric_1-20-1.jar",
             "MD5": "f496fdb42f919b8f3744d9c8eb8f65b9"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107841,
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/servers/main-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/servers/main-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125197,
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/servers/main-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/servers/main-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1042863,
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/servers/main-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.7.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/servers/main-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.7.1.2.jar",
             "MD5": "b57ee9d0bc1a08ad299878773816bae6"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 254778085,
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/servers/main-1.20.1/fabricmods/required/spb-revamped-1.20.1-1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/servers/main-1.20.1/fabricmods/required/spb-revamped-1.20.1-1.1.0.jar",
             "MD5": "ea3e44231b0afa7611e27157b95b976d"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8103826,
-            "url": "https://github.com/Thinsh0/PotoGames-Distribution/raw/refs/heads/servers/main-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/PotoGames-Distribution/refs/heads/master/servers/main-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
             "MD5": "10efc718572d137c7ba2ab386f307bba"
           }
         }
